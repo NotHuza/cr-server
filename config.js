@@ -1,7 +1,7 @@
 module.exports = {
     content: {
-        version: '3.691.14',
-        host: '192.168.0.16',
+        sha: '33f133cf15b944658f041a533cf1f48f27262076',
+        host: 'http://192.168.43.154/Patchs/',
         port: '8080'
     },
     db: {
@@ -13,7 +13,7 @@ module.exports = {
         port: 6379
     },
     network: {
-        maxConnections: 10
+        maxConnections: 20
     },
     events: [
         {
